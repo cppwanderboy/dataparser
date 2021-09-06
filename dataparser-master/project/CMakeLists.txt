@@ -2,7 +2,7 @@ PROJECT(parser_demo)
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
 
 #############################################################
-SET( CMAKE_CXX_FLAGS "-std=c++11")
+SET(CMAKE_CXX_FLAGS "-std=c++11")
 
 SET(CMAKE_BUILD_TYPE "Release")
 
